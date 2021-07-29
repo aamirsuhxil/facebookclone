@@ -1,0 +1,135 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.logo{
+    background: #3b5998;
+    height: 53px;
+    width: 50%;
+    padding-top: 28px;
+    float: left;
+
+}
+.login{
+    background: #3b5998;
+    width: 50%;
+    height: 75px;
+    float: left;
+    padding-top: 10px
+}
+.logotext
+{
+    font-family: Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    font-size: 41px;
+    font-weight: bold;
+    margin-left: 200px;
+    text-decoration: none;
+}
+.logtable{
+    margin-left: 100px;
+}
+.loglabel{
+    color: #ffff;
+    font-size: 12px;
+
+}
+.forgotten{
+    color: rgb(223, 217, 217);
+    font-size: 12px;
+    text-decoration: none;
+}
+.forgotten:hover{
+    text-decoration: underline;
+}
+.logbutton{
+    background: linear-gradient(#4267b2,#183777 150%);
+    color: #ffff;
+    height: 20px;
+    cursor: pointer;
+    border-color: #29487d;
+
+}
+.logbutton:hover{
+    background: linear-gradient(#4267b2,#183777 50%);
+}
+.conleft{
+    width: 47%;
+    float: left;
+    padding-left: 120px;
+    padding-top: 40px;
+}
+.conright{
+    width: 30%;
+    float: left;
+    padding-top: 10px;
+}
+.mainbody{
+    width: 100%;
+    height: 600px;
+    background: linear-gradient(172deg, rgba(255,255,255,1), rgb(187, 194, 223) 68%);
+}
+.crsize{
+    line-height: 10px;
+    font-size: 40px;
+    color: rgb(22, 22, 20);
+}
+.qk{
+    font-size: 22px;
+    color: rgb(22, 22, 20);
+    line-height: 10px ;
+}
+.input{
+    color: rgb(150, 153, 153);
+    height: 30px;
+    width: 220px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: #ffffff;
+    
+}
+.email{
+    color: rgb(150, 153, 153);
+    height: 30px;
+    font-size: 16px ;
+    width: 455px;
+    border-color: #ffffff;
+    border-radius: 5px;
+}
+.h22{
+    font-size: 17px;
+    color: rgb(123, 126, 126);
+    line-height: 4px;
+}
+.gender{
+    color: rgb(61, 61, 57);
+    font-size:15px;
+}
+.endn{
+    color: rgb(54, 54, 53);
+    font-size: 13px;
+}
+.under{
+    text-decoration: none;
+}
+.under:hover{
+    text-decoration: underline;
+}
+.butt{
+    height: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 250px;
+    color: #ffffff;
+    background: linear-gradient(180deg,#41af5d,#256836 150%);
+}
+.butt:hover{
+    background: linear-gradient(180deg,#41af5d,#256836 100%);
+}
